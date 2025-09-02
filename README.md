@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 * 🤟 Data Engineer with experience in designing, building, and maintaining Data Lakehouses, data pipelines, and ETL/ELT processes in cloud-based Big Data environments.
 * 🤯 My main strengths are Python, SQL, AWS, Databricks, Apache Airflow and Apache NiFi.
 * 🥇 Databricks Certified Data Engineer Associate
-* 🥇 Databricks Lakehouse Fundamentals
+* 🥇 AWS Certified Data Engineer – Associate
+* 🥇 Google Professional Data Engineer Certification
 * 🥇 AWS Certified Cloud Practitioner
 * 🥇 Astronomer Certification for Apache Airflow Fundamentals
-* 📫 How to reach me: contato@viniciusperes.com
+* 📫 How to reach me: viniaperes@gmail.com
 
 
 ## 🌐 Socials:
